@@ -103,7 +103,7 @@ return the first matching element and returns list of matching elements.
 
 **Answers**
 
-``` click() and send_keys()``
+``` click() and send_keys()```
 
 17. You could call send_keys(Keys.ENTER) on the Submit button’s WebElement object, but what is an easier way to submit a form with selenium?
 
