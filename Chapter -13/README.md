@@ -47,8 +47,10 @@
 
 **Answers**
 
-```The hold highest rows and highest column.
-They are Integers```
+```
+The hold highest rows and highest column.
+They are Integers
+```
 
 9. If you needed to get the integer index for column 'M', what function would you need to call?
 
